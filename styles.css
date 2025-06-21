@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    background-color: #e6e0e0;
+}
+.button{
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    border-radius: 20%;
+    border: 5px solid #000000;
+    margin: 1rem;
+}
+.div_container{
+    display: flex;
+    justify-content: center;
+}
+.green{
+    background-color: #4CAF50; /* Green */
+}
+.red{
+    background-color: #FF0000; /* Red */
+}
+.yellow{
+    background-color: #FFFF00; /* Yellow */
+}
+.blue{
+    background-color: #0000FF; /* Blue */
+
+}
+.start_game{
+    margin-top: 19px;
+     border: 2px solid #000000;
+}
+.flash{
+    box-shadow: #000000 0px 0px 50px;
+}
+.userflash{
+    box-shadow: #000000 0px 0px 50px;
+}
+.gameoverflash{
+    background-color: rgb(188, 7, 7);
+}
